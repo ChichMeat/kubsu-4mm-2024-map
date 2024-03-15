@@ -1,34 +1,52 @@
 {
-  "hash": "0d06f634",
-  "configHash": "47621d0b",
-  "lockfileHash": "13fb4b04",
-  "browserHash": "948e1106",
+  "hash": "940f4359",
+  "configHash": "4d6170e3",
+  "lockfileHash": "37657402",
+  "browserHash": "ec051c3a",
   "optimized": {
     "@angular/core": {
       "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "9f961959",
+      "fileHash": "9e70a11a",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "55e20a94",
+      "fileHash": "77d770dd",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "1ec0a333",
+      "fileHash": "8dc6804c",
       "needsInterop": false
+    },
+    "@asymmetrik/ngx-leaflet": {
+      "src": "../../../../../node_modules/@asymmetrik/ngx-leaflet/fesm2022/asymmetrik-ngx-leaflet.mjs",
+      "file": "@asymmetrik_ngx-leaflet.js",
+      "fileHash": "cc28459a",
+      "needsInterop": false
+    },
+    "leaflet": {
+      "src": "../../../../../node_modules/leaflet/dist/leaflet-src.js",
+      "file": "leaflet.js",
+      "fileHash": "38bf77a9",
+      "needsInterop": true
     }
   },
   "chunks": {
-    "chunk-ISOS2PAI": {
-      "file": "chunk-ISOS2PAI.js"
+    "chunk-V54HQVUX": {
+      "file": "chunk-V54HQVUX.js"
     },
-    "chunk-YW2JQ5US": {
-      "file": "chunk-YW2JQ5US.js"
+    "chunk-D34READ2": {
+      "file": "chunk-D34READ2.js"
+    },
+    "chunk-ATY3626I": {
+      "file": "chunk-ATY3626I.js"
+    },
+    "chunk-ASLTLD6L": {
+      "file": "chunk-ASLTLD6L.js"
     }
   }
 }

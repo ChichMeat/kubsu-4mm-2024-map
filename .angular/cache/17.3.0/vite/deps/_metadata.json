@@ -1,49 +1,67 @@
 {
-  "hash": "940f4359",
-  "configHash": "4d6170e3",
+  "hash": "9264f3c0",
+  "configHash": "15c8e1be",
   "lockfileHash": "37657402",
-  "browserHash": "ec051c3a",
+  "browserHash": "52506f3c",
   "optimized": {
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "67c9940c",
+      "needsInterop": false
+    },
     "@angular/core": {
       "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "9e70a11a",
+      "fileHash": "727426f6",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "77d770dd",
+      "fileHash": "9d154509",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "8dc6804c",
+      "fileHash": "c15b2c60",
       "needsInterop": false
     },
     "@asymmetrik/ngx-leaflet": {
       "src": "../../../../../node_modules/@asymmetrik/ngx-leaflet/fesm2022/asymmetrik-ngx-leaflet.mjs",
       "file": "@asymmetrik_ngx-leaflet.js",
-      "fileHash": "cc28459a",
+      "fileHash": "1bf3de85",
       "needsInterop": false
     },
     "leaflet": {
       "src": "../../../../../node_modules/leaflet/dist/leaflet-src.js",
       "file": "leaflet.js",
-      "fileHash": "38bf77a9",
+      "fileHash": "d0ec6f91",
       "needsInterop": true
+    },
+    "rxjs": {
+      "src": "../../../../../node_modules/rxjs/dist/esm5/index.js",
+      "file": "rxjs.js",
+      "fileHash": "103ca8ce",
+      "needsInterop": false
     }
   },
   "chunks": {
+    "chunk-YCFMVMIW": {
+      "file": "chunk-YCFMVMIW.js"
+    },
+    "chunk-G26ZHQOO": {
+      "file": "chunk-G26ZHQOO.js"
+    },
     "chunk-V54HQVUX": {
       "file": "chunk-V54HQVUX.js"
     },
-    "chunk-D34READ2": {
-      "file": "chunk-D34READ2.js"
+    "chunk-EEVEDSIO": {
+      "file": "chunk-EEVEDSIO.js"
     },
-    "chunk-ATY3626I": {
-      "file": "chunk-ATY3626I.js"
+    "chunk-WSA2QMXP": {
+      "file": "chunk-WSA2QMXP.js"
     },
     "chunk-ASLTLD6L": {
       "file": "chunk-ASLTLD6L.js"
